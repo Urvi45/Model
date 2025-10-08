@@ -32,4 +32,4 @@ r2 = r2_score(y_test, y_pred)
 print("Mean Squared Error:", mse)
 print("R² Score:", r2)
 
-joblib.dump(model, "model.pkl")
+joblib.dump(model, "model.pkl",compress=3)
