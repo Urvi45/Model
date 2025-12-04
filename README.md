@@ -116,6 +116,3 @@ Update with your details:
 
 If you like this project, support it by giving the repository a **star** ⭐ on GitHub!
 
-
-## 📁 Project Structure  
-
